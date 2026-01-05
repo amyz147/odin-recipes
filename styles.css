@@ -23,3 +23,10 @@ img {
     border-radius: 8px;
     opacity: 0.8;
 }
+
+.home {
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
